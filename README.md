@@ -8,4 +8,6 @@ Download the respository and run it using:
 | File | Information |
 |-------|------------|
 | Restaurant_Reviews.tsv  | Dataset | 
-| natural_language_processing.py  | Implementation | 
+| demo1 | Reviews classification | 
+| demo2 | Spam detection | 
+| demo3 | Spam detection | 
