@@ -9,5 +9,10 @@ Download the respository and run it using:
 |-------|------------|
 | Restaurant_Reviews.tsv  | Dataset | 
 | demo1 | Reviews classification | 
+| demo4 | Reviews classification | 
+| demo5 | Reviews classification | 
+| demo6 | Reviews classification | 
+| demo7 | Reviews classification | 
 | demo2 | Spam detection | 
 | demo3 | Spam detection | 
+| demo8 | Spam detection | 
